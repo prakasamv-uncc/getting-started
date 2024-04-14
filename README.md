@@ -67,6 +67,18 @@ npm run lint:fix
 npm test
 ```
 
+## Run in local browser by
+http://[::1]:3000/ping
+or
+http://127.0.0.1:3000/ping
+
+http://[::1]:3000/hello
+or
+http://127.0.0.1:3000/hello
+
+## Swagger LOCAL URL
+http://127.0.0.1:3000/explorer/
+
 ## What's next
 
 Please check out [LoopBack 4 documentation](https://loopback.io/doc/en/lb4/) to

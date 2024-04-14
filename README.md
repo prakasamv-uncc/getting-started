@@ -82,6 +82,8 @@ http://127.0.0.1:3000/explorer/
 ## Screenshot
 ![Screenshot 2024-04-13 231448](https://github.com/prakasamv-uncc/getting-started/assets/156151853/f09605ae-4c7d-479c-a9ab-5829497034a5)
 
+![Screenshot 2024-04-13 231801](https://github.com/prakasamv-uncc/getting-started/assets/156151853/78727cb4-b2d0-4533-af89-90e6140eb8a2)
+
 ## What's next
 
 Please check out [LoopBack 4 documentation](https://loopback.io/doc/en/lb4/) to
